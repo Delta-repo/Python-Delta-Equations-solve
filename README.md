@@ -1,2 +1,2 @@
 # Python-Delta-Equations-solve
-Python script that solves second degree equations with delta.
+This script solves second degree equations. You just have to enter the variables A, B and C.
